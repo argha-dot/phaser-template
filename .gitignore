@@ -1,1 +1,8 @@
-/ignore
+.vscode/
+.cache/
+.parcel-cache/
+dist/
+
+node_modules/
+
+ignore/
